@@ -1,8 +1,8 @@
 ## Oiii eu sou a Thatiane Deboleto
-- 🖥 Atualmente estou aprendendo Python e Java.
-- 🖋 Inicio desta jornada Agosto/21.
+- 🖥 Acadêmica de Analise de sistemas (ADS).
+- 🖋 Inicio desta jornada na programação: Agosto/21.
 - ⚡ Curiosidade: Sou apaixonada por medicina, ex acadêmica em busca de novos caminhos!
-- 👨‍⚕️ Só se vê bem com o coração - Pequeno príncipe.
+- 👨‍⚕️ Só se vê bem com o coração - O Pequeno príncipe.
 
 <div align="center">
   <a href="https://github.com/ThatianeDeboleto">
