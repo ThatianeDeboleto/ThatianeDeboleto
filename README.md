@@ -1,7 +1,7 @@
 ## Oiii eu sou a Thatiane Deboleto
 - 🖥 Acadêmica: Analise de sistemas (ADS).
 - 🖋 Inicio desta jornada na programação: Agosto/21.
-- ⚡ Curiosidade: Sou apaixonada por medicina, ex acadêmica em busca de novos caminhos!
+- ⚡ Curiosidade: Sou ex acadêmica de medicina, apaixonada por cuidar do próximo e espero utilizar de meus conhecimentos para esta nova fase.
 - 👨‍⚕️ Só se vê bem com o coração - O Pequeno príncipe.
 
 <div align="center">
