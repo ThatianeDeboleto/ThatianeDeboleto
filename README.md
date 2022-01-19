@@ -15,6 +15,7 @@
   <img align="center" alt="Ane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ane-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Ane-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Ane-Jupiter" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png">
   <img align="right" alt="Ane-pic" height="100" style="border-radius:45px;" src="https://pa1.narvii.com/6730/6aa5f0160df9de48ef128e15c602521d0132f936_hq.gif">
   
