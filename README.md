@@ -1,5 +1,5 @@
 ## Oiii eu sou a Thatiane Deboleto
-- 🖥 Acadêmica: Analise de sistemas (ADS).
+- 🖥 Acadêmica: Analise de sistemas (ADS) pela FATEC.
 - 🖋 Inicio desta jornada na programação: Agosto/21.
 - ⚡ Curiosidade: Sou ex acadêmica de medicina, apaixonada por cuidar do próximo e espero utilizar de meus conhecimentos para esta nova fase.
 - 👨‍⚕️ Só se vê bem com o coração - O Pequeno príncipe.
