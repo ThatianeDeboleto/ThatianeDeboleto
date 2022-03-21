@@ -15,7 +15,7 @@
   <img align="center" alt="Ane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ane-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ane-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Ane-pic" height="100" style="border-radius:45px;" src="https://pa1.narvii.com/6730/6aa5f0160df9de48ef128e15c602521d0132f936_hq.gif">
+  <img align="right" alt="Ane-pic" height="100" style="border-radius:45px;" src="https://img.wattpad.com/1baa94f01e5360fc65cef2b9478bb8660c74fcd8/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6d5261787455494c4a644c5955773d3d2d3831383034323330372e313565323834346334366433653335323232323631313832373431302e676966">
   
 </div>
   
