@@ -2,6 +2,7 @@
 - 🖋 Inicio desta jornada na programação: Agosto/21.
 - ⚡ Curiosidade: Sou ex acadêmica de medicina, apaixonada por cuidar do próximo e espero utilizar de meus conhecimentos para esta nova fase.
 - 👨‍⚕️ Só se vê bem com o coração - O Pequeno príncipe.
+-  🤖 Desenvolvedora BackEnd 
 
 <div align="center">
   <a href="https://github.com/ThatianeDeboleto">
