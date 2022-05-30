@@ -20,7 +20,7 @@
   <img align="center" alt="Ane-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Ane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg">
    <img align="center" alt="Ane-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Ane-pic" height="100" style="border-radius:45px;" src="https://i.pinimg.com/originals/ff/c5/09/ffc509c88000bf13a9e76135371a21f7.gif">
+  <img align="right" alt="Ane-pic" height="100" style="border-radius:45px;" src="https://giffiles.alphacoders.com/350/35047.gif">
   
 </div>
   
